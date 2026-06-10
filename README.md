@@ -11,7 +11,7 @@ Welcome to my personal engineering portfolio repository. This repository hosts m
 *   🛡️ **B2B Financial Portal Takeover (AWS DevOps):** [https://khaldragonfeng.github.io/portfolio/project-takeover.html](https://khaldragonfeng.github.io/portfolio/project-takeover.html)
 *   🚀 **AI SaaS Marketing Monorepo Case Study:** [https://khaldragonfeng.github.io/portfolio/saas-marketing.html](https://khaldragonfeng.github.io/portfolio/saas-marketing.html)
 *   🎮 **WeChat Mini Game Cocos systems case study:** [https://khaldragonfeng.github.io/portfolio/game-showcase.html](https://khaldragonfeng.github.io/portfolio/game-showcase.html)
-*   🌐 **Next.js Full-Stack SaaS Starter Codebase:** [https://github.com/KhalDragonFeng/nextjs-saas-starter](https://github.com/KhalDragonFeng/nextjs-saas-starter)
+*   🌐 **Next.js Full-Stack SaaS Starter (Live Demo):** [https://nextjs-saas-starter-green.vercel.app/](https://nextjs-saas-starter-green.vercel.app/)
 *   ⚙️ **Spring Boot KOL Match Engine Codebase:** [https://github.com/KhalDragonFeng/spring-kol-match-engine](https://github.com/KhalDragonFeng/spring-kol-match-engine)
 
 ---
